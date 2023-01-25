@@ -18,11 +18,22 @@ To download and install the Ventoy tool to a flash drive, follow these steps:
 
 1. Download the latest version of Ventoy from the official website (https://www.ventoy.net/en/download.html)<br>
 2. Insert your USB flash drive into your computer and make sure it is detected by the system.<br>
+![Photo4](https://user-images.githubusercontent.com/90008035/214692399-0f904cbf-44b3-4437-9a94-d85cee65e6c4.jpg)
 3. Open the downloaded Ventoy package and run the installer.<br>
+![Photo1](https://user-images.githubusercontent.com/90008035/214692143-77c11beb-79eb-458b-9c43-f3dda56ae7d2.png)
 4. During the installation process, you will be prompted to select the target USB drive. Make sure to select the correct drive, as this process will erase all data on the selected drive.<br>
+![Photo2](https://user-images.githubusercontent.com/90008035/214692339-4fa93bdd-6d02-4a6e-b3d2-4a9c9a1b7919.png)
+![Photo3](https://user-images.githubusercontent.com/90008035/214692531-62dc2c2e-922a-4452-a79b-fc3e5aeb1b57.png)
+
 5. Once the installation is complete, you can use the flash drive to boot various ISO images.<br>
+![Photo6](https://user-images.githubusercontent.com/90008035/214693031-d3aa5f2d-3846-4df6-8d16-f037ff4b4fa9.png)
+
 6. You can copy the ISO files to the flash drive and Ventoy will automatically detect them and allows you to boot them.<br>
+![Screenshot_1](https://user-images.githubusercontent.com/90008035/214692800-cacba73d-ea3d-4f2b-a849-7ccc0a78a65e.png)
+
 7. You can also add new ISO files to the USB drive after it has been initialized with Ventoy and boot them by simply selecting them from the boot menu.<br>
+8. The functionality of storing data is still in tact, I recommend creating a folder "_Files" and keeping them there.<br>
+![Screenshot_2](https://user-images.githubusercontent.com/90008035/214693722-725b552a-451c-4305-b145-c21d7a34e5f3.png)
 
 It is important to note that before installing Ventoy, make sure to backup any important files from the USB drive, as the installation process will erase all data on the drive.
 
