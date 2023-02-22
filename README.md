@@ -49,4 +49,8 @@ Having these tools on your USB drive can be a life saver in case of any emergenc
 
 In short, having a variety of Linux distributions and tools on your USB drive can be extremely useful for troubleshooting, recovery, and general use. It's a good idea to have a selection of Linux distros, troubleshooting and recovery tools, and antivirus on your multitool USB drive to be prepared for any situation.<br>
 
-Soon I'll create a list of my recommendations on what to put on a USB stick like that, so look out for that
+<h2>USB Tool</h2>
+![Tool](https://user-images.githubusercontent.com/90008035/220758491-31f80326-0b0d-4088-805a-4a6c14e43c37.jpg)
+
+Above is the tool I have created that is suiting my needs covering most needed ISO's and tools, but there is many more out there
+
