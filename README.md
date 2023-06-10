@@ -10,6 +10,13 @@ This repository guides the user on how to create a multitool USB drive that can 
 
 Users will also be able to store and access files from the same drive, making it a convenient tool for carrying important documents, pictures, videos and other files with them on the go. This guide is a must-have for anyone looking to make the most out of their USB drive.
 
+<h2>The tool:</h2>
+
+![Tool](https://user-images.githubusercontent.com/90008035/220758797-89d2c8b3-f1f5-4d8f-ae2a-06fc396e39c5.jpg)
+
+Above is the tool I have created that is suiting my needs covering most needed ISO's and tools, but there is many more out there
+
+
 <h2>Where to start?</h2>
 The first thing you need is a USB storage, it's important to consider the speed and capacity of the drive. USB 3.0 is the minimum standard to look for as it provides faster data transfer speeds compared to previous versions. It's recommended to use a USB 3.0 drive with a high read and write speeds for better performance when booting and running operating systems or software from the drive. Furthermore, for larger ISO images or for storing more files, a high capacity drive is recommended. You can look for a USB drive with at least 32 GB of storage capacity or higher to ensure that you have enough space for multiple ISO images and files. Some popular options for fast USB 3.0 drives include SanDisk Ultra, Kingston DataTraveler or Samsung Fit Plus among many others.
 
@@ -48,10 +55,3 @@ Lastly, having a bootable antivirus tool can be important for security reasons, 
 Having these tools on your USB drive can be a life saver in case of any emergency situation.<br>
 
 In short, having a variety of Linux distributions and tools on your USB drive can be extremely useful for troubleshooting, recovery, and general use. It's a good idea to have a selection of Linux distros, troubleshooting and recovery tools, and antivirus on your multitool USB drive to be prepared for any situation.<br>
-
-<h2>USB Tool</h2>
-
-![Tool](https://user-images.githubusercontent.com/90008035/220758797-89d2c8b3-f1f5-4d8f-ae2a-06fc396e39c5.jpg)
-
-Above is the tool I have created that is suiting my needs covering most needed ISO's and tools, but there is many more out there
-
